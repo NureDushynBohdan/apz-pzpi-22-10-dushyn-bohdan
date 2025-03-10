@@ -1,4 +1,4 @@
-# apz-pzpi-22-10-dushyn-bohdan
+# apz-pzpi-22-10-dushyn-bohdan  
 ПЗПІ-22-10  
 Тема доповіді ПЗ1  
 Тема доповіді ПЗ2  
